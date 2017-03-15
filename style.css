@@ -45,8 +45,8 @@ header{
   margin: 0px 0px 0px 9px;
   color: #75874F;
   height: 25px;
-  border-color: #75874F;
   background-color: #EDF2C5;
+  border: #75874F 1px solid; 
   border-radius: 3px;
 }
 
